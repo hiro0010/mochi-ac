@@ -1,15 +1,16 @@
-# 🛡️ Mochi-AC
-
 <div align="center">
 
-**Anti-cheat para Minecraft** — Bukkit / Paper
-
-[![Owner](https://img.shields.io/badge/Owner-hiro0010-FFFFFF?style=flat-square&logo=github&logoColor=white&background=0D1117)](https://github.com/hiro0010)
-[![Netwave](https://img.shields.io/badge/Netwave-Project-FFFFFF?style=flat-square&logo=googlechrome&logoColor=white&background=0D1117)](https://netwave.cloud)
+<img src="assets/header.svg" alt="MOCHI-AC" width="100%" />
 
 </div>
 
----
+<div align="center">
+
+[![Owner](https://img.shields.io/badge/Owner-hiro0010-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/mochi-ac) [![Netwave](https://img.shields.io/badge/Netwave-Project-B00000?style=flat-square&labelColor=B00000&logo=googlechrome&logoColor=white)](https://github.com/hiro0010/mochi-ac) [![Status](https://img.shields.io/badge/Status-ALERT--ONLY-B00000?style=flat-square&labelColor=0D0D0D&logo=gitlab&logoColor=white)](https://github.com/hiro0010/mochi-ac) [![Site](https://img.shields.io/badge/Site-netwave.cloud-B00000?style=flat-square&labelColor=0D0D0D&logo=googlechrome&logoColor=white)](https://github.com/hiro0010/mochi-ac)
+
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ## O que é
 
@@ -87,7 +88,7 @@ expulsa**. A punição automática fica desligada até existir um pipeline de
 punição com validação (canário → comparar → punir) e um banco de violações
 central.
 
-A ausência de punição é intencional: kicking erradodestroy confiança, e
+A ausência de punição é intencional: kicking errado destrói confiança, e
 falsos positivos em anti-cheat são o problema clássico do domínio.
 
 ---
@@ -111,10 +112,12 @@ Os concorrentes (Grim, Vulcan, Matrix, Spartan) foram desenhados para redes
 e cobre brand/mods do ambiente Netwave. Custo zero, código próprio, tuning no
 tráfego real.
 
----
+
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <div align="center">
 
-<sub>Parte da [Netwave](https://github.com/hiro0010/netwave) · Owner: [Hiro](https://github.com/hiro0010)</sub>
+<sub>Parte da <a href="https://github.com/hiro0010/netwave">Netwave</a>
+&middot; Owner: <a href="https://github.com/hiro0010">Hiro</a></sub>
 
 </div>
